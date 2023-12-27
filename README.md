@@ -6,9 +6,9 @@
 
 - 📝 I regularly write articles on [t.me/AbdurasulovJavohir](t.me/AbdurasulovJavohir)
 
-- 🔵Telegram **[AbdurasulovJavohir](t.me/thebest_coder)**
+- 🔵Telegram **[Diyor Bobokulov](t.me/thebest_coder)**
 
-- 📫 Email **AbdurasulovJavokhir0304@gmail.com**
+- 📫 Email **mister**
 
 
 <h3 align="left">Connect with me:</h3>
