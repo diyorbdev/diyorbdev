@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Diyor Bobokulov</h1>
-<h3 align="center">A passionate Front - end ddeveloper from Uzbekistan</h3>
+<h3 align="center">A passionate Front - end developer from Uzbekistan</h3>
 
 
 
-- 📝 I regularly write articles on [t.me/AbdurasulovJavohir](t.me/AbdurasulovJavohir)
+- 📝 I regularly write articles on [t.me/diyorbobokulov](t.me/diyorbobokulov)
 
-- 🔵Telegram **[Diyor Bobokulov](t.me/thebest_coder)**
+- 🔵Telegram **[Diyor Bobokulov](t.me/diyor_bobokulov1)**
 
-- 📫 Email **mister**
+- 📫 Email **misterdiyor000@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
